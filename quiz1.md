@@ -2,18 +2,19 @@ Quiz 1
 Part 1: recognizing nouns
 Identify the gender, case and number, and gender of each noun. If there are multiple possible forms, list all options. Translate prepositional phrases.
 
-filiam
-in coniugium
-animo
-uirgine
-parentes
-ad uxorem
+filiam = feminine, accusative, singular
+in coniugium = in marriage
+animo = masculine, dative or ablative, singular
+uirgine = feminine, ablative, singular
+parentes = masculine, nominative or accusative or vocative, plural
+ad uxorem = towards his wife
+
 Part 2: recognizing verbs
 For each of the following verbs,
 
 (a) identify the tense, voice, mood, person, and number. (b) if the form is singular, convert to plural; if the form is plural, convert to singular (c) translate the new form.
 
-petivisset
+petivisset = (a) pluperfect, singular, third person, active, subjunctive (b) petitus esset (c) had been asked 
 necauit
 necari
 rogaretur
