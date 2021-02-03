@@ -3,11 +3,17 @@ Part 1: recognizing nouns
 Identify the gender, case and number, and gender of each noun. If there are multiple possible forms, list all options. Translate prepositional phrases.
 
 filiam = feminine, accusative, singular
+
 in coniugium = in marriage
+
 animo = masculine, dative or ablative, singular
+
 uirgine = feminine, ablative, singular
+
 parentes = masculine, nominative or accusative or vocative, plural
+
 ad uxorem = towards his wife
+
 
 Part 2: recognizing verbs
 For each of the following verbs,
