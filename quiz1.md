@@ -16,9 +16,7 @@ Identify the gender, case and number, and gender of each noun. If there are mult
 6. ad uxorem = towards his wife
 
 
-For each of the following verbs,
-
-identify the tense, voice, mood, person, and number.
+Part 2: For each of the following verbs, identify the tense, voice, mood, person, and number.
 if the form is singular, convert to plural; if the form is plural, convert to singular
 
 1. petivisset = (a) pluperfect, singular, third person, active, subjunctive (b) petivissent
