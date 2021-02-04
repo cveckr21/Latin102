@@ -15,42 +15,42 @@ parentes = masculine, nominative or accusative or vocative, plural
 ad uxorem = towards his wife
 
 
-Part 2: recognizing verbs
 For each of the following verbs,
 
-(a) identify the tense, voice, mood, person, and number. (b) if the form is singular, convert to plural; if the form is plural, convert to singular (c) translate the new form.
+identify the tense, voice, mood, person, and number.
+if the form is singular, convert to plural; if the form is plural, convert to singular
 
-petivisset = (a) pluperfect, singular, third person, active, subjunctive (b) petitus esset (c) had been asked 
+1. petivisset = (a) pluperfect, singular, third person, active, subjunctive (b) petivissent
 
-necauit
+2. necauit = (a) perfect, singular, third person, active, indicative (b) necaverunt
 
-necari
+3. necari = (a) present, passive, infinitive (no number or gender) 
 
-rogaretur
+4. rogaretur = (a) imperfect, plural, third person, passive, subjunctive (b) rogaretur
 
-coepit
+5. coepit = (a) perfect, singular, third person, active, indicative (b) coeperunt
 
-interfecisset
+6. interfecisset = (a) pluperfect, singular, third person, active, subjunctive (b) interfecissent 
 
-misit
+7. misit = (a) perfect, singular, third person, active, indicative (b) miserunt
 
 
 Part 3: Latin composition
 Translate (only) the italicized verb forms into Latin. E.g., if you were given “Hercules saw Deianira,” you could translate saw with vidit.
 
-Centaurs are being killed by Hercules. (Use the present tense)
+1. Centaurs are being killed by Hercules. (Use the present tense) = interficiunt
 
-Centaurs were being killed by Hercules. (Use the perfect tense)
+2. Centaurs were being killed by Hercules. (Use the perfect tense) = interficiuntur
 
-Centaurs were killed by Hercules. (Use the perfect tense)
+3. Centaurs were killed by Hercules. (Use the perfect tense) = interfecti sunt
 
-When Hercules killed the Centaurs, he carried off Deianira. (Emphasize the circumstance, not the timing, of what Hercules did.)
+4. When Hercules killed the Centaurs, he carried off Deianira. (Emphasize the circumstance, not the timing, of what Hercules did.) = interfecit
 
-At the moment when Deianira saw Hercules’ garment burst into flames, she realized the Centaur had lied to her.
+5. At the moment when Deianira saw Hercules’ garment burst into flames, she realized the Centaur had lied to her. = vidit 
 
-Hercules led Deianira in marriage (i.e., he married her).
+6. Hercules led Deianira in marriage (i.e., he married her). = ducitur 
 
-Hercules repeatedly asked Eurytus for permission to marry Iole.
+7. Hercules repeatedly asked Eurytus for permission to marry Iole. = rogavit 
 
 
 Submitting your assignment
