@@ -2,9 +2,10 @@ Translation 1: wives of Hercules
 
 Concepts to review
 
->temporal clauses with indicative and subjunctive
->indirect statement
->use of ablative and accusative to express time
+>-temporal clauses with indicative and subjunctive
+-indirect statement
+-use of ablative and accusative to express time
+
 
 Vocabulary and notes
 
@@ -18,6 +19,7 @@ Vocabulary and notes
 
 -intervenio (inter + venio): “to come between, interrupt” (principal parts have the same forms as venio)
 
+
 Passage to analyze
 (Based on Hyginus, chapter 33.)
 
@@ -27,6 +29,7 @@ Hercules cum in hospitium ad Dexamenum regem uenisset eiusque filiam Deianiram d
 
 Tempore certo, venit centaurus cum fratribus ad nuptias. Hercules interuenit et centaurum interfecit, Deianiram abduxit.
 
+
 A. Grammatical analysis
 Place each clause on a separate line, indented to show its level of subordination. Italicize the verb of each clause. For example, if you were given the English sentence, “They felt relieved when they realized that the translation was easy.”, you would format it as
 
@@ -35,6 +38,7 @@ Place each clause on a separate line, indented to show its level of subordinatio
 >when they realized
 
 >that the translation was easy.
+
 
 B. Grammatical questions
 
@@ -49,6 +53,7 @@ B. Grammatical questions
 -Identify the form pollicitus est. What dictionary form would you look under to find this verb?
 
 -Identify the form of the noun-adjective phrase tempore certo, and explain why it is in this case.
+
 
 C. Translation
 Please translate the passgae into idiomatic English.
