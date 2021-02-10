@@ -12,6 +12,8 @@ A. Grammatical analysis
 *volebat* eam uxorem *ducere*. 
 
 2. 
+>Hercules cum *abesset,*
+centaurus Eurytion *petit* Deianiram uxorem. 
 
 
 B. Grammatical Questions:
