@@ -13,6 +13,7 @@ A. Grammatical analysis
 
 2. 
 >Hercules cum *abesset,*
+
 centaurus Eurytion *petit* Deianiram uxorem. 
 
 
