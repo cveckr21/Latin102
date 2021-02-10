@@ -23,4 +23,5 @@ B. Grammatical Questions:
 6.
 
 C. Translation
+
 When he [Hercules] came to King Dexamenum for the purpose of hospitality and deflowered the king's daughter, Deianiram, Hercules wished to marry her. 
