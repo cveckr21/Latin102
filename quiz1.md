@@ -1,4 +1,4 @@
-**Needs revisions**
+**Full credit**
 
 
 Quiz 1
@@ -8,7 +8,7 @@ Identify the gender, case and number, and gender of each noun. If there are mult
 
 1. filiam = feminine, accusative, singular
 
-2. in coniugium = in marriage ❓ *Please identify the form as well as translate the phrase*
+2. in coniugium = in marriage neuter accusative singular
 
 3. animo = masculine, dative or ablative, singular
 
@@ -16,7 +16,7 @@ Identify the gender, case and number, and gender of each noun. If there are mult
 
 5. parentes = masculine, nominative or accusative or vocative, plural
 
-6. ad uxorem = towards his wife ❓ *Please identify the form as well as translate the phrase*
+6. ad uxorem = towards his wife, feminine accusative singular
 
 
 Part 2: For each of the following verbs, identify the tense, voice, mood, person, and number.
@@ -40,19 +40,19 @@ if the form is singular, convert to plural; if the form is plural, convert to si
 Part 3: Latin composition
 Translate (only) the italicized verb forms into Latin. E.g., if you were given “Hercules saw Deianira,” you could translate saw with vidit.
 
-1. Centaurs are being killed by Hercules. (Use the present tense) = interficiunt ❌
+1. Centaurs are being killed by Hercules. (Use the present tense) = interficiuntur.
 
-2. Centaurs were being killed by Hercules. (Use the perfect tense) = interficiuntur  ❌
+2. Centaurs were being killed by Hercules. (Use the imperfect tense) = interficiebantur
 
 3. Centaurs were killed by Hercules. (Use the perfect tense) = interfecti sunt
 
-4. When Hercules killed the Centaurs, he carried off Deianira. (Emphasize the circumstance, not the timing, of what Hercules did.) = interfecit ❌
+4. When Hercules killed the Centaurs, he carried off Deianira. (Emphasize the circumstance, not the timing, of what Hercules did.) = interfecisset
 
 5. At the moment when Deianira saw Hercules’ garment burst into flames, she realized the Centaur had lied to her. = vidit 
 
-6. Hercules led Deianira in marriage (i.e., he married her). = ducitur  ❌
+6. Hercules led Deianira in marriage (i.e., he married her). = duxit 
 
-7. Hercules repeatedly asked Eurytus for permission to marry Iole. = rogavit  ❌
+7. Hercules repeatedly asked Eurytus for permission to marry Iole. = rogabat
 
 
 Submitting your assignment
