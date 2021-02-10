@@ -2,13 +2,15 @@ Translation 1:
 
 A. Grammatical analysis 
 
-Hercules
+1. Hercules
 
->cum in hospitium ad Dexamenum regem uenisset
+>cum in hospitium ad Dexamenum regem *uenisset*
 
->eiusque filiam Deianiram deuirginasset, 
+>eiusque filiam Deianiram *deuirginasset*, 
 
-volebat eam uxorem ducere. 
+*volebat* eam uxorem *ducere*. 
+
+2. 
 
 
 B. Grammatical Questions:
@@ -21,3 +23,4 @@ B. Grammatical Questions:
 6.
 
 C. Translation
+When he [Hercules] came to King Dexamenum for the purpose of hospitality and deflowered the king's daughter, Deianiram, Hercules wished to marry her. 
