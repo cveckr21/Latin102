@@ -1,5 +1,6 @@
 Translation 1: 
 
+
 A. Grammatical analysis 
 
 1. Hercules
@@ -21,6 +22,7 @@ B. Grammatical Questions:
 4. Identify the form uenisset, and explain why it is this tense and mood.
 5. Identify the form pollicitus est. What dictionary form would you look under to find this verb?
 6.
+
 
 C. Translation
 
