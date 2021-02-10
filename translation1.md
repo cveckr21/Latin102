@@ -16,6 +16,13 @@ A. Grammatical analysis
 
 centaurus Eurytion *petit* Deianiram uxorem. 
 
+3. 
+>Quia pater eius centaurum *timebat*,
+
+*pollicitus est*
+
+>se *daturum*. 
+
 
 B. Grammatical Questions:
 
