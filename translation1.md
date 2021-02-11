@@ -3,6 +3,7 @@ Translation 1:
 
 A. Grammatical analysis 
 
+
 1. Hercules
 
 >cum in hospitium ad Dexamenum regem *uenisset*
@@ -34,6 +35,7 @@ Deianiram *abduxit.*
 
 B. Grammatical Questions:
 
+
 1. Write a dictionary entry (nominative singular, genitive singular, gender) for Dexamenum, then identify the form Dexamenum.
 
 Dexameni, Dexameno, m. - accusative, singular, 2nd declension
@@ -58,6 +60,7 @@ Deianira, Deianirae, f. - accusative, singular, 1st declension
 
 Pollicero, polliceri, - , pollicitus : perfect, passive, indicative, singular, 3rd person 
 
+
 6. Identify the form of the noun-adjective phrase tempore certo, and explain why it is in this case.
 
 -Tempore - singular, ablative 
@@ -65,6 +68,7 @@ Pollicero, polliceri, - , pollicitus : perfect, passive, indicative, singular, 3
 -Certo - singular, ablative (2nd declension)
 
 -The noun-adjective phrase must match in number and case, which these two do since they are both singular and ablative. 
+
 
 C. Translation
 
