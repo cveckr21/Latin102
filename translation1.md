@@ -1,3 +1,6 @@
+**Needs minor revisions**
+**Excellent first draft!**
+
 Translation 1: 
 
 
@@ -28,7 +31,7 @@ centaurus Eurytion *petit* Deianiram uxorem.
 Tempore certo, *venit* centaurus cum fratibus ad nuptias. 
 
 5. 
-Hercules *interuenit* et centaurum *interfecit*,
+Hercules *interuenit* et centaurum *interfecit*, ❌
 
 Deianiram *abduxit.* 
 
@@ -38,7 +41,8 @@ B. Grammatical Questions:
 
 1. Write a dictionary entry (nominative singular, genitive singular, gender) for Dexamenum, then identify the form Dexamenum.
 
-Dexameni, Dexameno, m. - accusative, singular, 2nd declension
+Dexameni, Dexameno, m. - accusative, singular, 2nd declension ❌
+
 
 2. Write a dictionary entry (nominative singular, genitive singular, gender) for Deianiram, then identify the form Deianiram.
 
@@ -53,12 +57,12 @@ Deianira, Deianirae, f. - accusative, singular, 1st declension
 
 -Pluperfect, singular, third person, active, subjunctive 
 
--It is subjunctive because it is regarding a circumstance. The tense of the main clause is a secondary sequence (past tense), and the time relation to the subordiance clause is earlier which makes the verb pluperfect. 
+-It is subjunctive because it is regarding a circumstance. The tense of the main clause is a secondary sequence (past tense), and the time relation to the subordinate clause is earlier which makes the verb pluperfect. 
 
 
 5. Identify the form pollicitus est. What dictionary form would you look under to find this verb?
 
-Pollicero, polliceri, - , pollicitus : perfect, passive, indicative, singular, 3rd person 
+Pollicero❌, polliceri, - , pollicitus : perfect, passive, indicative, singular, 3rd person   *Speling!*
 
 
 6. Identify the form of the noun-adjective phrase tempore certo, and explain why it is in this case.
@@ -67,9 +71,9 @@ Pollicero, polliceri, - , pollicitus : perfect, passive, indicative, singular, 3
 
 -Certo - singular, ablative (2nd declension)
 
--The noun-adjective phrase must match in number and case, which these two do since they are both singular and ablative. 
+-The noun-adjective phrase must match in number and case, which these two do since they are both singular and ablative. ❌ *explain **why** it is in this case*
 
 
 C. Translation
 
-When he [Hercules] came to King Dexamenum for the purpose of hospitality and deflowered the king's daughter, Deianiram, Hercules wished to marry her. When Hercules went away, Eurytion, the centaur, asked for Dianira as his wife. Because her father was scared of the centaur, he promised that he would give her. At a particular time, he came with his brothers, the centaurs, to the wedding. Hercules stepped in and killed the centaur, and he took Deianira away.
+When he [Hercules] came to King Dexamenum❌ for the purpose of hospitality and deflowered the king's daughter, Deianiram❌, Hercules wished to marry her. When Hercules went away, Eurytion, the centaur, asked for Dianira as his wife. Because her father was scared of the centaur, he promised that he would give her. At a particular time, he came with his brothers, the centaurs, to the wedding. Hercules stepped in and killed the centaur, and he took Deianira away.
