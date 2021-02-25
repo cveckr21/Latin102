@@ -68,9 +68,9 @@ Polliceor, polliceri, - , pollicitus : perfect, passive, indicative, singular, 3
 
 6. Identify the form of the noun-adjective phrase tempore certo, and explain why it is in this case.
 
--Tempore - singular, ablative 
+- Tempore - singular, ablative 
 
--Certo - singular, ablative (2nd declension)
+- Certo - singular, ablative (2nd declension)
 
 - Ablative refers to time when the event
 
