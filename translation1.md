@@ -1,5 +1,4 @@
-**Needs minor revisions**
-**Excellent first draft!**
+**Full credit**
 
 Translation 1: 
 
@@ -31,7 +30,9 @@ centaurus Eurytion *petit* Deianiram uxorem.
 Tempore certo, *venit* centaurus cum fratibus ad nuptias. 
 
 5. 
-Hercules *interuenit* et centaurum *interfecit*, ❌
+Hercules *interuenit* 
+
+et centaurum *interfecit*,
 
 Deianiram *abduxit.* 
 
@@ -41,7 +42,7 @@ B. Grammatical Questions:
 
 1. Write a dictionary entry (nominative singular, genitive singular, gender) for Dexamenum, then identify the form Dexamenum.
 
-Dexameni, Dexameno, m. - accusative, singular, 2nd declension ❌
+Dexamenus, Dexameni, m. - accusative, singular, 2nd declension
 
 
 2. Write a dictionary entry (nominative singular, genitive singular, gender) for Deianiram, then identify the form Deianiram.
@@ -62,7 +63,7 @@ Deianira, Deianirae, f. - accusative, singular, 1st declension
 
 5. Identify the form pollicitus est. What dictionary form would you look under to find this verb?
 
-Pollicero❌, polliceri, - , pollicitus : perfect, passive, indicative, singular, 3rd person   *Speling!*
+Polliceor, polliceri, - , pollicitus : perfect, passive, indicative, singular, 3rd person  
 
 
 6. Identify the form of the noun-adjective phrase tempore certo, and explain why it is in this case.
@@ -71,9 +72,9 @@ Pollicero❌, polliceri, - , pollicitus : perfect, passive, indicative, singular
 
 -Certo - singular, ablative (2nd declension)
 
--The noun-adjective phrase must match in number and case, which these two do since they are both singular and ablative. ❌ *explain **why** it is in this case*
+- Ablative refers to time when the event
 
 
 C. Translation
 
-When he [Hercules] came to King Dexamenum❌ for the purpose of hospitality and deflowered the king's daughter, Deianiram❌, Hercules wished to marry her. When Hercules went away, Eurytion, the centaur, asked for Dianira as his wife. Because her father was scared of the centaur, he promised that he would give her. At a particular time, he came with his brothers, the centaurs, to the wedding. Hercules stepped in and killed the centaur, and he took Deianira away.
+When he [Hercules] came to King Dexamenus for the purpose of hospitality and deflowered the king's daughter, Deianira, Hercules wished to marry her. When Hercules went away, Eurytion, the centaur, asked for Dianira as his wife. Because her father was scared of the centaur, he promised that he would give her. At a particular time, he came with his brothers, the centaurs, to the wedding. Hercules stepped in and killed the centaur, and he took Deianira away.
