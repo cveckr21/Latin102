@@ -8,4 +8,10 @@ Minerua = ablative, nominative
 
 monstrante = present participle = goes to Minerva 
 
-2.
+2. Procrustes erat Neptuni filius
+
+>ad hunc hospes cum venisset,
+
+>minori lecto proposito
+
+reliquam corporis partem praecidebat. 
