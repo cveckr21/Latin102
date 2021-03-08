@@ -52,11 +52,11 @@ polliceor, pollicēri, -, pollicitus: to promise
 
 >third plural imperfect subjunctive active = pollocerentur
 
->third plural perfect indicative active = pollicicuerunt, they promised
+>third plural perfect indicative active = pollicicuerunt,❌ they promised
 
->perfect active infinitive = pollicitum
+>perfect active infinitive = pollicitum❌
 
->third plural pluperfect subjunctive active = pollicuissent
+>third plural pluperfect subjunctive active = pollicuissent❌
 
 
 duco, ducĕre, duxi, ductus: to lead
@@ -83,13 +83,13 @@ English Relative Clauses:
 1. The brothers, with whom Eurytion came to the wedding, were violent Centaurs.
 2. Dexamenus was afraid of Eurytion to whom Deanira was promised in marriage.
 3. Eurytion, whose brothers were centaurs, expected to marry Deianira. 
-4. Nessus, who was killed by Hercules, tried to rape Deianira.
-5. Nessus gave Deianira a vial of blood to whom Hercules was poisoned. 
+4. Nessus, who was killed by Hercules❌, tried to rape Deianira.
+5. Nessus gave Deianira a vial of blood to whom❌ Hercules was poisoned. 
 6. In Egypt, Hercules killed the priest Busiris who regularly sacrificed foreigners. 
-7. Prometheus’ heart was devoured by an eagle to whom Hercules shot dead with his arrows. 
+7. Prometheus’ heart was devoured by an eagle to whom❌ Hercules shot dead with his arrows. 
 8. Lycus who was killed by Hercules tried to kill Megara and her sons Therimachus and Ophites. 
-9. Apollo refused to give Hercules to whom stole a tripod from the temple at Delphi, an oracle. 
-10. Hercules to whom Juno drove threw into a fit of madness, killed his own wife Megara. 
+9. Apollo refused to give Hercules to whom stole a tripod from the temple at Delphi, an oracle. ❌
+10. Hercules to whom❌ Juno drove threw into a fit of madness, killed his own wife Megara. 
 
 Latin relative clauses:
 
