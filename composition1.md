@@ -12,3 +12,4 @@ Composition #1:
 4. Iole patitur quia❌ (this one I was unsure of) ea parens interfecissent. 
 
 5. Hercules cum omnes interfecerant❌ (interfecisset), is ad Deianiriam Iolen mittit. 
+
