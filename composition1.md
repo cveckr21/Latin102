@@ -3,7 +3,7 @@
 
 Composition #1:
 
-1. Hercules ad Oechalium❌ patrum❌ (patrem) venisset, is rogavit Iolen uxorem.
+1. Hercules cum Oechaliam❌ patrum❌ (patrem) venisset, is rogavit Iolen uxorem.
 
 2. Eurytus cum nollet, Hercules Oechalium❌ (Oechaliam) cepit. 
 
