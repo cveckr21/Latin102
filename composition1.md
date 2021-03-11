@@ -9,8 +9,8 @@ Composition #1:
 
 3. Dixit se interfecterum esse eius parentes. 
 
-4. Iole patitur quia❌ (this one I was unsure of) ea parens interfecissent. 
+4. Iole passus est quia eius parentes interfectus esse. 
 
-5. Hercules cum omnes interfecerant❌ (interfecisset), is ad Deianiriam Iolen mittit. 
+5. Hercules cum omnes interfecisset, is ad Deianiriam Iolen mittit. 
 
 
