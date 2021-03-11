@@ -7,7 +7,7 @@ Composition #1:
 
 2. Eurytus cum nollet, Hercules Oechaliam cepit. 
 
-3. Dixit se interfecterum esse eisu parentes. 
+3. Dixit se interfecterum esse eius parentes. 
 
 4. Iole patitur quia❌ (this one I was unsure of) ea parens interfecissent. 
 
