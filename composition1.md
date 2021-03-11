@@ -9,7 +9,7 @@ Composition #1:
 
 3. Dixit se interfecterum esse eius parentes. 
 
-4. Iole passas est suas parentes interfectos esse. 
+4. Iole passa est suas parentes interfectos esse. 
 
 5. Hercules cum omnes interfecisset, is ad Deianiriam Iolen mittit. 
 
