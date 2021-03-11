@@ -1,5 +1,5 @@
-**Needs revisions**
-**Nice first draft!**
+**Full credit**
+
 
 Composition #1:
 
