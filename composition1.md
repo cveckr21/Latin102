@@ -3,11 +3,11 @@
 
 Composition #1:
 
-1. Hercules cum Oechaliam❌ patrum❌ (patrem) venisset, is rogavit Iolen uxorem.
+1. Hercules cum Oechaliam ad patrem venisset, is rogavit Iolen uxorem.
 
-2. Eurytus cum nollet, Hercules Oechalium❌ (Oechaliam) cepit. 
+2. Eurytus cum nollet, Hercules Oechaliam cepit. 
 
-3. Dixit Herculem interfecisse❌ (interfecit) eam parentes. 
+3. Dixit se interfecterum esse eisu parentes. 
 
 4. Iole patitur quia❌ (this one I was unsure of) ea parens interfecissent. 
 
