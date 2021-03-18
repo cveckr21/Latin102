@@ -42,7 +42,7 @@ Deianirae dedit et
 
 Grammatical questions:
 
-1. Cui goes to Deianira. The gender and number is feminine and singular. Cui is in the dative case because it indicates the person for whom an action happens or a quality exists.
+1. Cui goes to Evenus. The gender and number is masculine and singular. Cui is in the dative case because it indicates the person for whom an action happens or a quality exists.
 
 2. Transire is the present, active, infinitive of transeo. I placed it in the first independent clause to describe Deianira’s action of crossing the river. 
 
@@ -54,7 +54,7 @@ Grammatical questions:
 
 6. Felle = feminine, accusative plural and this case is used because it acts as the object of preposition 
 
-7. Tinctas = accusative, feminine, plural
+7. Tinctas = accusative, feminine, plural, perfect passive participle 
 
 8. Exceptum accusative, singular, neuter = - goes to suum (singular, neuter, accusative) 
 
@@ -62,9 +62,10 @@ Grammatical questions:
 
 Translation:
 
-Deianira, the wife of Hercules, was not able to cross the large river whose name was Evenus, and asked the centaur Nessus, son of Ixonis and Nubis, to help. He carried Deianira across the river and he wished to rape her. When Hercules intervened to this place, and because Deianira implored his faith, he pierced Nessum with arrows. 
+Deianira, the wife of Hercules, was not able to cross the great river whose name was Evinos, and asked the centaur Nessus, son of Ioxon and Nubes, to help. He carried Deianira across the river and he wished to rape her. When Hercules intervened to this place, and because Deianira begged with tears, he pierced Nessus with arrows. 
 
 While he was dying and he knew that the arrows were soaked in the poison of the snake Lernaea, he knew how much strength the poison had and gave his own blood to Deianira and said that it was a love potion.
+
 
 
 
