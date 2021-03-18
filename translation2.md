@@ -52,7 +52,7 @@ Grammatical questions:
 
 3. sublatam is from a verb that is a compound of sub plus a verb you should know very well. Identify the form of this participle (which for participles means: gender, case, number, tense voice). Find the dictionary entry for this word in thed Lewis-Short’s Latin Dictionary, and give its URN here.
 
->Sublatam = accusative, feminine, singular, perfect, passive participle which comes from the verb tollo, tollere, sustuli, sublatus. URL: http://folio2.furman.edu/lewis-short/index.html
+>Sublatam = accusative, feminine, singular, perfect, passive participle which comes from the verb fero, ferre, tuli, latus URN: urn:cite2:hmt:ls.markdown:n46406
 
 4. Identify the form of sagittis. Why does Hyginus use this case?
 
