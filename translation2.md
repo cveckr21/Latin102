@@ -58,7 +58,7 @@ Grammatical questions:
 
 8. Exceptum accusative, singular, neuter = - goes to suum (singular, neuter, accusative) 
 
-9.Dying as I lay 
+9. Dying as I lay 
 
 Translation:
 
