@@ -99,7 +99,3 @@ Deianira, the wife of Hercules, was not able to cross the great river whose name
 
 While he was dying and he knew that the arrows were soaked in the poison of the snake Lernaea, he knew how much strength the poison had and gave his own blood to Deianira and said that it was a love potion.
 
-
-
-
-
