@@ -2,11 +2,17 @@ Translation 2:
 
 Grammatical analysis:
 
-1. Deianira, uxor Herculis, 
+1. Deianira, uxor Herculis, flumen magnum, 
 
->flumen magnum, cui nomen Evenus *erat*, *non poterat transire*, 
+>cui nomen Evenus *erat*, 
 
->et centaurum Nessum, qui filius Ixionis et Nubis *erat*, 
+*non poterat transire*, 
+
+et 
+
+centaurum Nessum, 
+
+>qui filius Ixionis et Nubis *erat*, 
 
 *auxilium rogavit*.
 
@@ -14,7 +20,7 @@ Grammatical analysis:
 
 >Deianiram *sublatam* in flumine ipso *uiolare* 
 
->*uoluit*.
+*uoluit*.
 
 3. Huc Hercules
 
