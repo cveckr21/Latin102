@@ -22,7 +22,7 @@ centaurum Nessum,
 
 *uoluit*.
 
-3. Huc Hercules
+3. Huc Hercules 
 
 >cum *interuenisset* 
 
@@ -36,15 +36,23 @@ Nessum sagittis *confixit*.
 
 >cum *sciret*
 
->>sagittas Hydrae Lernaeae felle tinctas magnam vim *habere*
+>>sagittas 
 
-Sanguinem suum
+>>>Hydrae Lernaeae felle tinctas 
 
->>exceptum
+>>magnam vim *habere*
 
-Deianirae *dedit* et
+sanguinem suum 
 
->Id philtrum *esse*.
+>>exceptum 
+
+Deianirae *dedit* 
+
+et
+
+>id philtrum *esse*
+
+*dixit*
 
 Grammatical questions:
 
