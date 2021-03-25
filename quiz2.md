@@ -52,11 +52,11 @@ polliceor, pollicēri, -, pollicitus: to promise
 
 >third plural imperfect subjunctive active = pollocerentur
 
->third plural perfect indicative active = pollicicuerunt,❌ they promised
+>third plural perfect indicative active = pollicicuerunt,❌ Pollicuerint, they promised
 
->perfect active infinitive = pollicitum❌
+>perfect active infinitive = pollicitum❌ Pollicuisse 
 
->third plural pluperfect subjunctive active = pollicuissent❌
+>third plural pluperfect subjunctive active = pollicuissent❌ polliciti essent 
 
 
 duco, ducĕre, duxi, ductus: to lead
@@ -83,13 +83,13 @@ English Relative Clauses:
 1. The brothers, with whom Eurytion came to the wedding, were violent Centaurs.
 2. Dexamenus was afraid of Eurytion to whom Deanira was promised in marriage.
 3. Eurytion, whose brothers were centaurs, expected to marry Deianira. 
-4. Nessus, who was killed by Hercules❌, tried to rape Deianira.
-5. Nessus gave Deianira a vial of blood to whom❌ Hercules was poisoned. 
+4. EDIT: Nessus who Hercules killed tried to rape Deianira.
+5. EDIT: Nessus gave Deianira a vial of blood by which Hercules was poisoned. 
 6. In Egypt, Hercules killed the priest Busiris who regularly sacrificed foreigners. 
-7. Prometheus’ heart was devoured by an eagle to whom❌ Hercules shot dead with his arrows. 
+7. EDIT: Prometheus’ heart was devoured by an eagle which Hercules shot dead with his arrows. 
 8. Lycus who was killed by Hercules tried to kill Megara and her sons Therimachus and Ophites. 
-9. Apollo refused to give Hercules to whom stole a tripod from the temple at Delphi, an oracle. ❌
-10. Hercules to whom❌ Juno drove threw into a fit of madness, killed his own wife Megara. 
+9. EDIT: Hercules stole a tripod from the temple at Delphi to whom Apollo refused to give an oracle. 
+10. EDIT: Hercules killed his own wife Megara whom Juno drove into a fit of madness. 
 
 Latin relative clauses:
 
@@ -126,15 +126,15 @@ Sentence 4:
 
 >Nessus = singular, masculine
 
->Subject = qui 
+>DO = quem 
 
 Sentence 5:
 
->To whom
+>by which 
 
 >Vial of blood = singular
 
->Indirect object = dative = cui 
+>Instrument, ablative = quo 
 
 Sentence 6:
 
@@ -146,11 +146,11 @@ Sentence 6:
 
 Sentence 7:
 
->To whom
+>which
 
->Eagle = singular 
+>Eagle = singular, feminine 
 
->DO = accusative = quem 
+>Direct object = accusative = quam 
 
 Sentence 8:
 
@@ -166,12 +166,12 @@ Sentence 9:
 
 >Hercules = singular, masculine
 
->DO = accusative = quem 
+>Indirect object = dative = cui 
 
 Sentence 10:
 
->To whom
+> whom
 
 >Hercules 
 
->Subject = qui 
+>Direct object = quem
