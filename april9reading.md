@@ -21,14 +21,14 @@ Leonem Nemeum
 nacavit
 >cuius pellem pro tegumento habuit. 
 
-He killed the Nemean lion, 
+He killed the Nemean lion, whom the moon had raised in a cave 
 
 Vocab:
 
 1. Leonem Nemeum = accusative 
 2. quem = accusative = who
 3. Luna 
-4. nutrierat = 
+4. nutrierat = verb = to nourish 
 5. in antro = ablative = in a cave
 6. amphistomo = 
 7. atrotum = 
