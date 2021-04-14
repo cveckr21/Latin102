@@ -1,3 +1,5 @@
+**Needs revisions**
+
 Translation 2:
 
 Grammatical analysis:
@@ -18,7 +20,7 @@ centaurum Nessum,
 
 2. Hic
 
->Deianiram *sublatam* in flumine ipso *uiolare* 
+>Deianiram *sublatam* in flumine ipso *uiolare* ❌
 
 *uoluit*.
 
@@ -70,15 +72,15 @@ Grammatical questions:
 
 4. Identify the form of sagittis. Why does Hyginus use this case?
 
->Sagittas = arrows = accusative, plural, feminine ; Hyginus uses this case because it acts as the object in the preposition 
+>Sagittas❌ = arrows = accusative, plural, feminine ; Hyginus uses this case because it acts as the object in the preposition 
 
 5. Identify the form of moriens.
 
->Moriens is the present participle but singular and accusative to describe what he was doing which is dying 
+>Moriens is the present participle but singular and accusative❌ to describe what he was doing which is dying 
 
 6. Identify felle. Why does Hyginus use this case?
 
->Felle = feminine, accusative plural and this case is used because it acts as the object of preposition 
+>Felle = feminine, accusative plural and this case is used because it acts as the object of preposition❌ 
 
 7. Identify the form of tinctas.
 
@@ -86,11 +88,11 @@ Grammatical questions:
 
 8. Identify the form of exceptum.
 
->Exceptum accusative, singular, neuter = - goes to suum (singular, neuter, accusative) 
+>Exceptum accusative, singular, neuter❌ = - goes to suum (singular, neuter, accusative) 
 
 9. William Faulkner’s novel As I lay dying takes its title from an English translation of a single word in Odyssey 11.424. In Greek, where participles function very differently from English but similarly to Latin, that word is a present active participle. Suggest one or more possible translations of Faulkner’s title into Latin.
 
->Dying as I lay
+>Dying as I lay❌
  
 
 Translation:
