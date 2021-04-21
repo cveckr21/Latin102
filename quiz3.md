@@ -26,4 +26,32 @@ Part 2:
 
 Part 3:
 
-1. 
+Proper nouns
+
+1. Luna, Lunae, f.
+2. Minerva, Minervae, f.
+3. Phrygia, Phrygiae, f.
+4. Creta, Cretae, f.
+5. Thracia, Thraciae, f.
+6. Abderum, Abderi, n.
+7. Eurystheus, Eurysthei, m. 
+
+adjectives
+
+1. Nemean
+2. Lernaean 
+3. Erythium 
+4. Stymphalides
+5. Amazon, Amazonis 
+
+Comparative and superlative forms
+
+1. with a great blowing = 
+2. with a greater blowing = 
+3. with the greatest blowing = 
+4. in great torment = 
+5. in greater torment =
+6. in the greatest torment = 
+7. a great part = 
+8. a greater part = 
+9. the greatest part =
