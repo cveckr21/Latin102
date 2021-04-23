@@ -36,22 +36,22 @@ Proper nouns
 6. Abderum, Abderi, n.
 7. Eurystheus, Eurysthei, m. 
 
-adjectives
+Adjectives
 
-1. Nemean
-2. Lernaean 
-3. Erythium 
-4. Stymphalides
+1. Nemea, Nemeae 
+2. Lerna, Lernae 
+3. Erymanthia, Erymanthiae 
+4. Stymphalides, Stymphalidei 
 5. Amazon, Amazonis 
 
 Comparative and superlative forms
 
-1. with a great blowing = 
-2. with a greater blowing = 
-3. with the greatest blowing = 
-4. in great torment = 
-5. in greater torment =
-6. in the greatest torment = 
-7. a great part = 
-8. a greater part = 
-9. the greatest part =
+1. with a great blowing = magno afflatu 
+2. with a greater blowing = magnior, magnioris afflatu  
+3. with the greatest blowing = magnissimus, magna, magnum afflatu 
+4. in great torment = magno cruciato 
+5. in greater torment = magnior, magnioris cruciato
+6. in the greatest torment = magnissimus, magna, magnum cruciato
+7. a great part = magnam partem
+8. a greater part = magnior, magnioris partem
+9. the greatest part = magnissimus, magna, magnum partem
