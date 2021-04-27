@@ -1,3 +1,5 @@
+**Full credit**
+
 Quiz 2
 
 Verb synopses:
