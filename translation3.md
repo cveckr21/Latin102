@@ -30,7 +30,9 @@ B. Grammatical Questions:
 
 C. Literary commentary 
 
+In sentence 8, vivum pairs with taurum; however, the two words are not near each other in the sentence. Hyginus adds a level of difficulty to the sentence when it comes to the translation because typically we see word pairs right next to each other. This word pair meaning “the living bull” adds more color the the sentence with providing the reader with a greater mental image of the actions occuring in this sentence. 
 
+In sentence 9, Hyginus uses qui as a plural pronoun with the antecedent being Diomedes and the four horses. Using the pronoun, keeps the sentence from being bogged down with unnecessary words when a pronoun can be used instead. Qui translates to “who” and by using this pronoun it creates another clause to help breakdown the sentence into individual parts. 
 
 Translation:
 
