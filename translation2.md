@@ -72,7 +72,7 @@ Grammatical questions:
 
 4. Identify the form of sagittis. Why does Hyginus use this case?
 
->Sagittas❌ = arrows = accusative, plural, feminine ; Hyginus uses this case because it acts as the object in the preposition 
+>Sagittis❌ = arrows = ablative, plural, feminine ; ablative of means/instrument 
 
 5. Identify the form of moriens.
 
@@ -80,7 +80,7 @@ Grammatical questions:
 
 6. Identify felle. Why does Hyginus use this case?
 
->Felle = feminine, accusative plural and this case is used because it acts as the object of preposition❌ 
+>Felle = ablative, neuter, singular ; ablative of instrument❌ 
 
 7. Identify the form of tinctas.
 
