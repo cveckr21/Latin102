@@ -20,7 +20,7 @@ centaurum Nessum,
 
 2. Hic
 
->Deianiram *sublatam* in flumine ipso *uiolare* ❌
+>Deianiram sublatam in flumine ipso *uiolare* ❌
 
 *uoluit*.
 
