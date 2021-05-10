@@ -6,23 +6,27 @@ Sentence 7:
 
 Augeae regis stercus bobile uno die purgavit, 
 
-maiorem partem Iove adiutore; ❌ **More than one verbal unit here!**
+maiorem partem 
 
-flumine admisso totum stercus abluit. ❌ **More than one verbal unit here!**
+>Iove adiutore; ❌ **More than one verbal unit here!**
+
+>flumine admisso 
+
+totum stercus abluit. ❌ **More than one verbal unit here!**
 
 Sentence 8: 
 
 taurum 
 
-cum  quo Pasiphae concubuit ex Creta insula Mycenis  ❌ **This is subordinate: please indent.**
+>cum  quo Pasiphae concubuit ❌ **This is subordinate: please indent.**
 
-vivum adduxit.
+ex Creta insula Mycenis vivum adduxit.
 
 Sentence 9:
 
 Diomedem Thraciae regem et equos quattuor eius, 
 
-qui carne humana vescebantur,   ❌ **This is subordinate: please indent.**
+>qui carne humana vescebantur,   ❌ **This is subordinate: please indent.**
 
 cum Abdero famulo interfecit; 
 
