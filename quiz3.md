@@ -55,5 +55,5 @@ Comparative and superlative forms **Note that *magnus* has irregular comparative
 5. in greater torment = maiore❌ cruciato
 6. in the greatest torment = maxima cruciato
 7. a great part = magnam partem
-8. a greater part = maiore❌ partem
-9. the greatest part = maxima❌ partem
+8. a greater part = maiorem❌ partem
+9. the greatest part = maximam❌ partem
