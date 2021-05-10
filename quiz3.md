@@ -2,15 +2,15 @@
 
 Part 1:
 
-1. unus, una, unum & dies❓ 
+1. unus, una, unum & dies, diei❓ 
 2. totus, tota, totum & stercus, stercoris, n. 
 3. cervus, cervi & ferox, ferocis
 4. tantus, tanta, tantum & vis, vis, f.
 5. sagitta, sagittae, f. & suus, sua, suum
 6. cornu, cornus, n. & aureus, aurei, m. 
-7. caro, carnes❌, f. & humanus, humana, humanum 
+7. caro, carnis❌, f. & humanus, humana, humanum 
 8. draco, draconis, m. & immanis, immane 
-9. mala, malorum❌, n. & aureus, aurea, aureum 
+9. mala, malae❌, n. & aureus, aurea, aureum 
 
 Part 2: 
 
@@ -43,8 +43,8 @@ Adjectives
 1. Nemea, Nemeae 
 2. Lerna, Lernae 
 3. Erymanthia, Erymanthiae 
-4. Stymphalides, Stymphalidei  ❌
-5. Amazon, Amazonis ❌
+4. Stymphalis, Stymphalidis  ❌
+5. Amazon, Amazones ❌
 
 Comparative and superlative forms **Note that *magnus* has irregular comparative and superlative stems!**
 
