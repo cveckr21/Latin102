@@ -18,11 +18,11 @@ centaurum Nessum,
 
 *auxilium rogavit*.
 
-2. Hic
+2. Hic Deianiram 
 
->Deianiram sublatam in flumine ipso *uiolare* ❌
+>sublatam in flumine ipso 
 
-*uoluit*.
+*uiolare* ❌ *uoluit*.
 
 3. Huc Hercules 
 
@@ -76,7 +76,7 @@ Grammatical questions:
 
 5. Identify the form of moriens.
 
->Moriens is the present participle but singular and accusative❌ to describe what he was doing which is dying 
+>Moriens is the present participle but singular and nominative❌ 
 
 6. Identify felle. Why does Hyginus use this case?
 
@@ -88,11 +88,11 @@ Grammatical questions:
 
 8. Identify the form of exceptum.
 
->Exceptum accusative, singular, neuter❌ = - goes to suum (singular, neuter, accusative) 
+>Exceptum accusative, singular, neuter❌ = - goes to sanguine (masculine) perfect, passive 
 
 9. William Faulkner’s novel As I lay dying takes its title from an English translation of a single word in Odyssey 11.424. In Greek, where participles function very differently from English but similarly to Latin, that word is a present active participle. Suggest one or more possible translations of Faulkner’s title into Latin.
 
->Dying as I lay❌
+>moriens❌
  
 
 Translation:
