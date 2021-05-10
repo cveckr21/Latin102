@@ -34,10 +34,10 @@ equorum autem nomina Podargus Lampon Xanthus Dinus.
 
 B. Grammatical Questions: 
 
-1. Iove is ablative ; ablative of manner meaning the manner in which the action was done  ❌ **Yes, ablative.**
+1. Iove is ablative ; ablative of absolute  ❌ **Yes, ablative.**
 2. Accusative because it is the direct object of the clause
 3. Feminine, accusative, singular, comparative
-4. Flumine admissio is ablative and is the ablative of means/instrument  ❌ **Yes, ablative.**
+4. Flumine admissio is ablative and is the ablative of absolute  ❌ **Yes, ablative.**
 5. Masculine, plural, nominative, Diomedes and the four horses
 6. Sum, esse, fui, futurus = to be 
 
