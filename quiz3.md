@@ -17,7 +17,7 @@ Part 2:
 1. transeo, transire, transivi, transitus 
 2. afflo, afflare, afflavi, afflatus 
 3. morior, mori, -, mortuus
-4. exintro, exintrare, exintravi, exintratus❌ **Check form of stem**
+4. exintero, exinterare, exinteravi, exinteratus❌ **Check form of stem**
 5. effugio, effugere, effugi, effugitus 
 6. adduco, adducere, adduxi, adductus 
 7. iaculor, iaculari, 
@@ -35,7 +35,7 @@ Proper nouns
 3. Phrygia, Phrygiae, f.
 4. Creta, Cretae, f.
 5. Thracia, Thraciae, f.
-6. Abderum, Abderi, n. ❌
+6. Abderus, Abderi, n. ❌
 7. Eurystheus, Eurysthei, m. 
 
 Adjectives
@@ -44,16 +44,16 @@ Adjectives
 2. Lerna, Lernae 
 3. Erymanthia, Erymanthiae 
 4. Stymphalis, Stymphalidis  ❌
-5. Amazon, Amazones ❌
+5. Amazonus, Amazona, Amazonum ❌
 
 Comparative and superlative forms **Note that *magnus* has irregular comparative and superlative stems!**
 
 1. with a great blowing = magno afflatu 
-2. with a greater blowing = magnior, magnioris❌ afflatu  
-3. with the greatest blowing = magnissimus, magna, magnum afflatu ❌
+2. with a greater blowing = maiore❌ afflatu  
+3. with the greatest blowing = maxima afflatu ❌
 4. in great torment = magno cruciato 
-5. in greater torment = magnior, magnioris❌ cruciato
-6. in the greatest torment = magnissimus,❌ magna, magnum cruciato
+5. in greater torment = maiore❌ cruciato
+6. in the greatest torment = maxima cruciato
 7. a great part = magnam partem
-8. a greater part = magnior, magnioris❌ partem
-9. the greatest part = magnissimus, magna,❌ magnum partem
+8. a greater part = maiore❌ partem
+9. the greatest part = maxima❌ partem
