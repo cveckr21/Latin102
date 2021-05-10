@@ -2,7 +2,7 @@
 
 Part 1:
 
-1. unus, una, unum & dies, diei❓ 
+1. unus, una, unum & dies, diei
 2. totus, tota, totum & stercus, stercoris, n. 
 3. cervus, cervi & ferox, ferocis
 4. tantus, tanta, tantum & vis, vis, f.
