@@ -1,4 +1,4 @@
-**Needs revisions**
+**Full credit**
 
 Part 1:
 
@@ -50,10 +50,10 @@ Comparative and superlative forms **Note that *magnus* has irregular comparative
 
 1. with a great blowing = magno afflatu 
 2. with a greater blowing = maiore❌ afflatu  
-3. with the greatest blowing = maxima afflatu ❌
-4. in great torment = magno cruciato 
-5. in greater torment = maiore❌ cruciato
-6. in the greatest torment = maxima cruciato
+3. with the greatest blowing = maximo afflatu ❌
+4. in great torment = magno cruciatu
+5. in greater torment = maiore❌ cruciatu
+6. in the greatest torment = maximo cruciatu
 7. a great part = magnam partem
 8. a greater part = maiorem❌ partem
 9. the greatest part = maximam❌ partem
